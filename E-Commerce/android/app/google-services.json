@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672786052211",
+    "firebase_url": "https://doces-nathally.firebaseio.com",
+    "project_id": "doces-nathally",
+    "storage_bucket": "doces-nathally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672786052211:android:87b880298304e6cb9ea606",
+        "android_client_info": {
+          "package_name": "br.com.kakomo.docesnathally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672786052211-4lr6sqivavmbhafrm1nn7sqnpv4r173s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkKpmFQ9rkPOfiiuf0Oge64402CGveCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672786052211-4lr6sqivavmbhafrm1nn7sqnpv4r173s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
